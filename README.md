@@ -1,4 +1,4 @@
-📹 <h1>Face Connectiva</h1>
+📹 <h1>Face Connectica</h1>
 Welcome to the Face Connectica project! This application is a real-time video conferencing app built using React and Socket.io. Dive into the world of seamless video communication and collaboration! <br><br>
 
 🚀 Features<br>
